@@ -1,0 +1,15 @@
+.cardContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.typography{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.city{
+  padding-right: 5px;
+}
